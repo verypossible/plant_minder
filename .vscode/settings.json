@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/erock/.platformio/penv/bin:/Users/erock/.platformio/penv:/Users/erock/.nvm/versions/node/v9.11.1/bin:/Users/erock/.pyenv/plugins/pyenv-virtualenv/shims:/Users/erock/.pyenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
